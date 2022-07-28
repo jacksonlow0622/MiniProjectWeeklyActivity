@@ -1,1 +1,1 @@
-# .ipynb file for Weekly activity week 5 is in the folder "Week 5 Weekly Activity".
+# .ipynb file for Weekly activity week 6 is in the folder "Week 6 Weekly Activity".
